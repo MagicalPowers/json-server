@@ -12,30 +12,4 @@
     frequency: "Monthly",
     tags: "Geneva",
   },
-  {
-    id: 3,
-    report_id: "484093461d48b1c26ea53e03bfa9e0c8dfb1ad79",
-    first_name: "Fairfax",
-    last_name: "Hackey",
-    last_modified: "2022-01-22 07:34:35",
-    client_name: "Kris Inc",
-    report_name: "performance-perfVestibulum.txt",
-    description:
-      "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh.",
-    frequency: "Once",
-    tags: "top ten",
-  },
-  {
-    id: 4,
-    report_id: "619af16f1578907c04c7d24d3d883a672d89b7db",
-    first_name: "Oralle",
-    last_name: "Jagson",
-    last_modified: "2022-03-12 14:44:16",
-    client_name: "Pollich-Haag",
-    report_name: "PositioNequeVestibulumEget.mp3",
-    description:
-      "Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam.",
-    frequency: "Daily",
-    tags: "Geneva",
-  },
 ];
