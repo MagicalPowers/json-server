@@ -3,13 +3,5 @@
     id: 1,
     report_id: "34893c293b0676a96031f4e15e49a49f8cd8266a",
     first_name: "Daphene",
-    last_name: "Fauguel",
-    last_modified: "2022-02-01 23:08:14",
-    client_name: "Legros LLC",
-    report_name: "transaction-CondimentumId.jpeg",
-    description:
-      "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus.",
-    frequency: "Monthly",
-    tags: "Geneva",
-  },
+   },
 ];
